@@ -19,37 +19,7 @@
 		"Marked": "0",
 		"Dead": "0",
 		"Size" : "120",
-		"Comment" : "",
-		"Medias" : 
-		[
-		  {}
-		]
-	  },
-	  {
-		"Date" : "12/06/2021",
-		"Ready": "0",
-		"Harvested": "0",
-		"Marked": "0",
-		"Dead": "0",
-		"Size" : "140",
-		"Comment" : "",
-		"Medias" : 
-		[
-		  {}
-		]
-	  },
-	  {
-		"Date" : "12/08/2021",
-		"Ready": "0",
-		"Harvested": "0",
-		"Marked": "0",
-		"Dead": "1",
-		"Size" : "141",
-		"Comment" : "Constatation d'attaque de pucerons lanigeres",
-		"Medias" : 
-		[
-		  {"path" : "/media"}
-		]
+		"Comment" : ""
 	  }
 	]
   }
