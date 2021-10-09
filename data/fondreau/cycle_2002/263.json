@@ -1,7 +1,64 @@
-{
-	"cycle": "2002",
-	"ID": "263",
-	"Variety": "Dorskamp",
-	"Plantation Date": "2002",
-	"Harvest Date": ""
-}
+[
+  {
+    "type": "header",
+    "version": "1.0",
+    "comment": ""
+  },
+  {
+    "type": "table",
+    "name": "populus",
+    "database": "populus",
+	"cycle": "2002"
+    "data":
+    [
+      {
+        "ID": "263",
+        "Variety": "Dorskamp",
+        "Plantation Date": "2002",
+		"Harvest Date": "",
+		"States" :
+		[
+		  {
+		    "Date" : "12/03/2021",
+			"Ready": "0",
+            "Harvested": "0",
+            "Marked": "0",
+            "Dead": "0",
+		    "Size" : "120",
+			"Comment" : "",
+			"Medias" : 
+			[
+			  {}
+			]
+		  },
+		  {
+		    "Date" : "12/06/2021",
+			"Ready": "0",
+            "Harvested": "0",
+            "Marked": "0",
+            "Dead": "0",
+			"Size" : "140",
+			"Comment" : "",
+			"Medias" : 
+			[
+			  {}
+			]
+		  },
+		  {
+		    "Date" : "12/08/2021",
+			"Ready": "0",
+            "Harvested": "0",
+            "Marked": "0",
+            "Dead": "0",
+			"Size" : "140",
+			"Comment" : "Constatation d'attaque de pucerons lanigeres",
+			"Medias" : 
+			[
+			  {"path" : "/media"}
+			]
+		  }
+		]
+      }
+	]
+  }
+]
