@@ -9,18 +9,6 @@
 	"ID": "263",
 	"Variety": "Dorskamp",
 	"Plantation Date": "2002",
-	"Harvest Date": "",
-	"States" :
-	[
-	  {
-		"Date" : "12/03/2021",
-		"Ready": "0",
-		"Harvested": "0",
-		"Marked": "0",
-		"Dead": "0",
-		"Size" : "120",
-		"Comment" : ""
-	  }
-	]
+	"Harvest Date": ""
   }
 ]
