@@ -1,14 +1,7 @@
-[
-  {
-    "type": "header",
-    "version": "1.0",
-    "comment": ""
-  },
-  {
+{
 	"cycle": "2002",
 	"ID": "263",
 	"Variety": "Dorskamp",
 	"Plantation Date": "2002",
 	"Harvest Date": ""
-  }
-]
+}
