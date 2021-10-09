@@ -1,5 +1,23 @@
 {
 	"cycle": "2002",
-    "ID": "263",
-    "Variety": "Dorskamp"
+    "id": "263",
+    "variety": "Dorskamp",
+	"plantation_date": "2002",
+	"harvest_date": "",
+	"states" :
+	[
+	  {
+		"date" : "12/03/2021",
+		"ready": "0",
+		"harvested": "0",
+		"marked": "0",
+		"dead": "0",
+		"size" : "120",
+		"comment" : "",
+		"medias" : 
+		[
+		  {}
+		]
+	  }
+	]
 }
