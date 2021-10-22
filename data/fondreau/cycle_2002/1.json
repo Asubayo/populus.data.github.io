@@ -1,0 +1,44 @@
+{
+	"cycle": "2002",
+	"id": "1",
+	"variety": "Dano",
+	"plantation_date": "2002",
+	"harvest_date": "",
+	"marked": "0",
+	"states" :
+	[
+	  {
+		"date" : "12/03/2021",
+		"ready": "0",
+		"dead": "0",
+		"size" : "120",
+		"comment" : "",
+		"medias" : 
+		[
+		  {}
+		]
+	  },
+	  {
+		"date" : "12/06/2021",
+		"ready": "0",
+		"dead": "0",
+		"size" : "140",
+		"comment" : "",
+		"medias" : 
+		[
+		  {}
+		]
+	  },
+	  {
+		"date" : "12/08/2021",
+		"ready": "0",
+		"dead": "0",
+		"size" : "140",
+		"comment" : "Constatation d'attaque de pucerons lanigeres",
+		"medias" : 
+		[
+		  {"path" : "/media"}
+		]
+	  }
+	]
+}
